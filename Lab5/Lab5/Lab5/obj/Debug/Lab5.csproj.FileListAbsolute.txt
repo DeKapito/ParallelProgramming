@@ -1,0 +1,7 @@
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb

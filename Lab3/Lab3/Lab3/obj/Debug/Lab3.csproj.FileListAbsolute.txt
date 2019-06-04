@@ -1,0 +1,7 @@
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb

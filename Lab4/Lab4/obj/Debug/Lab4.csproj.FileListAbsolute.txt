@@ -1,0 +1,14 @@
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab3\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\Lab4\Lab4\obj\Debug\Lab4.pdb
