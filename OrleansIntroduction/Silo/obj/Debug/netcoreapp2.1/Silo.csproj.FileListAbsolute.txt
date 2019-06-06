@@ -1,0 +1,16 @@
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\Silo.deps.json
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\Silo.runtimeconfig.json
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\Silo.runtimeconfig.dev.json
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\Silo.dll
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\obj\Debug\netcoreapp2.1\Silo.csprojAssemblyReference.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\obj\Debug\netcoreapp2.1\Silo.csproj.CoreCompileInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\obj\Debug\netcoreapp2.1\Silo.AssemblyInfoInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\obj\Debug\netcoreapp2.1\Silo.AssemblyInfo.cs
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\GrainInterfaces.dll
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\Grains.dll
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\Silo.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\Grains.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\bin\Debug\netcoreapp2.1\GrainInterfaces.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\obj\Debug\netcoreapp2.1\Silo.csproj.CopyComplete
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\obj\Debug\netcoreapp2.1\Silo.dll
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\Silo\obj\Debug\netcoreapp2.1\Silo.pdb

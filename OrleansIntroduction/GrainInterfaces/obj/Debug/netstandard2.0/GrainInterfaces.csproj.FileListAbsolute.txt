@@ -1,0 +1,11 @@
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.deps.json
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.dll
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csprojAssemblyReference.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfoInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfo.cs
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.pdb
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csproj.OrleansCodeGenInputs.cache
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.orleans.g.cs
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.dll
+E:\Навчання (New)\3 курс (2 семестр)\Оптимізація\ParallelProgramming\OrleansIntroduction\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.pdb
